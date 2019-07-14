@@ -1,0 +1,22 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+use DBI;
+
+my $dbh = DBI->connect('dbi:SQLite:dbname=apollo.db')
+  or die DBI->errstr;
+
+my $sql = 'INSERT INTO STATUS (message, orig_time, new_time, done)
+           VALUES (?, ?, ?, 0)';
+
+my $sth = $dbh->prepare($sql);
+
+while (<>) {
+  chomp;
+
+  my ($msg, $old, $new) = split /\|/;
+
+  $sth->execute($msg, $old, $new);
+}

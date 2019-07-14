@@ -1,0 +1,41 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+use DBI;
+use Apollo::Twitter;
+
+my $t = Apollo::Twitter->new(
+    traits          => [ 'API::RESTv1_1', 'OAuth' ],
+    ssl             => 1,
+    consumer_key    => $ENV{APOLLO_KEY},
+    consumer_secret => $ENV{APOLLO_SEC},
+  );
+
+$t->authorise;
+
+my $sel_sql = 'select message, orig_time, new_time
+               from   status
+	       where  new_time <= strftime("%Y-%m-%dT%H:%M:%S",
+	                                   DATETIME("now", "utc"))
+               and    done = 0';
+
+my $upd_sql = 'update status
+               set    done = 1
+	       where  message = ?
+	       and    new_time = ?';
+
+my $dbh = DBI->connect('dbi:SQLite:dbname=apollo.db')
+  or die DBI->errstr;
+
+my $sel_sth = $dbh->prepare($sel_sql);
+$sel_sth->execute;
+
+my $upd_sth = $dbh->prepare($upd_sql);
+
+while (my $status = $sel_sth->fetch) {
+  $t->update("$status->[0] ($status->[1])");
+  $upd_sth->execute($status->[0], $status->[2]);
+}
+
