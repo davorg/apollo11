@@ -1,0 +1,250 @@
+Terminal countdown started.|1969-07-14T21:00:00|2019-07-14T21:00:00
+Scheduled 11-hour hold at T-9 hours.|1969-07-15T16:00:00|2019-07-15T16:00:00
+Countdown resumed at T-9 hours.|1969-07-16T03:00:00|2019-07-16T03:00:00
+Scheduled 1-hour 32-minute hold at T-3 hours 30 minutes.|1969-07-16T08:30:00|2019-07-16T08:30:00
+Countdown resumed at T-3 hours 30 minutes.|1969-07-16T10:02:00|2019-07-16T10:02:00
+Guidance reference release.|1969-07-16T13:31:43|2019-07-16T13:31:43
+S-IC engine start command.|1969-07-16T13:31:51|2019-07-16T13:31:51
+S-IC engine ignition (#5).|1969-07-16T13:31:53|2019-07-16T13:31:53
+All S-IC engines thrust OK.|1969-07-16T13:31:58|2019-07-16T13:31:58
+Range zero.|1969-07-16T13:32:00|2019-07-16T13:32:00
+All holddown arms released (1st motion).|1969-07-16T13:32:00|2019-07-16T13:32:00
+Liftoff (umbilical disconnected) (1.07 g).|1969-07-16T13:32:00|2019-07-16T13:32:00
+Tower clearance yaw maneuver started.|1969-07-16T13:32:01|2019-07-16T13:32:01
+Yaw maneuver ended.|1969-07-16T13:32:09|2019-07-16T13:32:09
+Pitch and roll maneuver started.|1969-07-16T13:32:13|2019-07-16T13:32:13
+Roll maneuver ended.|1969-07-16T13:32:31|2019-07-16T13:32:31
+Mach 1 achieved.|1969-07-16T13:33:06|2019-07-16T13:33:06
+Maximum dynamic pressure (735.17 lb/ft2).|1969-07-16T13:33:23|2019-07-16T13:33:23
+Maximum bending moment (33,200,000 lbf-in).|1969-07-16T13:33:31|2019-07-16T13:33:31
+S-IC center engine cutoff command.|1969-07-16T13:34:15|2019-07-16T13:34:15
+Pitch maneuver ended.|1969-07-16T13:34:40|2019-07-16T13:34:40
+S-IC outboard engine cutoff.|1969-07-16T13:34:41|2019-07-16T13:34:41
+S-IC maximum total inertial acceleration (3.94 g).|1969-07-16T13:34:41|2019-07-16T13:34:41
+S-IC maximum Earth-fixed velocity. S-IC/S-II separation command.|1969-07-16T13:34:42|2019-07-16T13:34:42
+S-II engine start command.|1969-07-16T13:34:43|2019-07-16T13:34:43
+S-II ignition.|1969-07-16T13:34:44|2019-07-16T13:34:44
+S-II aft interstage jettisoned.|1969-07-16T13:35:12|2019-07-16T13:35:12
+Launch escape tower jettisoned.|1969-07-16T13:35:17|2019-07-16T13:35:17
+Iterative guidance mode initiated.|1969-07-16T13:35:24|2019-07-16T13:35:24
+S-IC apex.|1969-07-16T13:36:29|2019-07-16T13:36:29
+S-II center engine cutoff.|1969-07-16T13:39:40|2019-07-16T13:39:40
+S-II maximum total inertial acceleration (1.82 g).|1969-07-16T13:39:40|2019-07-16T13:39:40
+S-IC impact (theoretical).|1969-07-16T13:41:03|2019-07-16T13:41:03
+S-II outboard engine cutoff.|1969-07-16T13:41:08|2019-07-16T13:41:08
+S-II maximum Earth-fixed velocity. S-II/S-IVB separation command.|1969-07-16T13:41:09|2019-07-16T13:41:09
+S-IVB 1st burn start command.|1969-07-16T13:41:09|2019-07-16T13:41:09
+S-IVB 1st burn ignition.|1969-07-16T13:41:12|2019-07-16T13:41:12
+S-IVB ullage case jettisoned.|1969-07-16T13:41:21|2019-07-16T13:41:21
+S-II apex.|1969-07-16T13:41:47|2019-07-16T13:41:47
+S-IVB 1st burn cutoff.|1969-07-16T13:43:39|2019-07-16T13:43:39
+S-IVB 1st burn maximum total inertial acceleration (0.69 g).|1969-07-16T13:43:39|2019-07-16T13:43:39
+Earth orbit insertion. S-IVB 1st burn maximum Earth-fixed velocity.|1969-07-16T13:43:49|2019-07-16T13:43:49
+Maneuver to local horizontal attitude started.|1969-07-16T13:43:59|2019-07-16T13:43:59
+Orbital navigation started.|1969-07-16T13:45:21|2019-07-16T13:45:21
+S-II impact (theoretical).|1969-07-16T13:52:13|2019-07-16T13:52:13
+S-IVB 2nd burn restart preparation.|1969-07-16T16:06:38|2019-07-16T16:06:38
+S-IVB 2nd burn restart command.|1969-07-16T16:16:08|2019-07-16T16:16:08
+S-IVB 2nd burn ignition (STDV open).|1969-07-16T16:16:16|2019-07-16T16:16:16
+S-IVB 2nd burn cutoff.|1969-07-16T16:22:03|2019-07-16T16:22:03
+S-IVB 2nd burn maximum total inertial acceleration (1.45 g).|1969-07-16T16:22:03|2019-07-16T16:22:03
+S-IVB 2nd burn maximum Earth-fixed velocity.|1969-07-16T16:22:03|2019-07-16T16:22:03
+S-IVB safing procedures started.|1969-07-16T16:22:03|2019-07-16T16:22:03
+Translunar injection.|1969-07-16T16:22:13|2019-07-16T16:22:13
+Maneuver to local horizontal attitude started.|1969-07-16T16:22:23|2019-07-16T16:22:23
+Orbital navigation started.|1969-07-16T16:22:23|2019-07-16T16:22:23
+Maneuver to transposition and docking attitude started.|1969-07-16T16:37:03|2019-07-16T16:37:03
+CSM separated from S-IVB.|1969-07-16T16:47:23|2019-07-16T16:47:23
+CSM separation maneuver ignition.|1969-07-16T16:49:04|2019-07-16T16:49:04
+CSM separation maneuver cutoff.|1969-07-16T16:49:11|2019-07-16T16:49:11
+CSM docked with LM/S-IVB.|1969-07-16T16:56:03|2019-07-16T16:56:03
+CSM/LM ejected from S-IVB.|1969-07-16T17:49:03|2019-07-16T17:49:03
+CSM/LM evasive maneuver from S-IVB ignition.|1969-07-16T18:12:01|2019-07-16T18:12:01
+CSM/LM evasive maneuver from S-IVB cutoff.|1969-07-16T18:12:04|2019-07-16T18:12:04
+S-IVB maneuver to lunar slingshot attitude initiated.|1969-07-16T18:13:07|2019-07-16T18:13:07
+S-IVB lunar slingshot maneuver - LH2 tank CVS opened.|1969-07-16T18:23:07|2019-07-16T18:23:07
+S-IVB lunar slingshot maneuver - LOX dump started.|1969-07-16T18:35:07|2019-07-16T18:35:07
+S-IVB lunar slingshot maneuver - LOX dump ended.|1969-07-16T18:36:55|2019-07-16T18:36:55
+S-IVB lunar slingshot maneuver - APS ignition.|1969-07-16T19:09:47|2019-07-16T19:09:47
+S-IVB lunar slingshot maneuver - APS cutoff.|1969-07-16T19:14:27|2019-07-16T19:14:27
+S-IVB maneuver to communications attitude initiated.|1969-07-16T19:14:48|2019-07-16T19:14:48
+TV transmission started (recorded at Goldstone and transmitted to Houston at 011:26).|1969-07-17T00:04:00|2019-07-17T00:04:00
+TV transmission ended.|1969-07-17T00:20:00|2019-07-17T00:20:00
+Midcourse correction ignition.|1969-07-17T16:16:58|2019-07-17T16:16:58
+Midcourse correction cutoff.|1969-07-17T16:17:01|2019-07-17T16:17:01
+TV transmission started.|1969-07-17T20:00:00|2019-07-17T20:00:00
+TV transmission ended.|1969-07-17T20:50:00|2019-07-17T20:50:00
+TV transmission started.|1969-07-17T23:31:00|2019-07-17T23:31:00
+TV transmission ended.|1969-07-18T00:07:00|2019-07-18T00:07:00
+TV transmission started.|1969-07-18T20:40:00|2019-07-18T20:40:00
+CDR and LMP entered LM for initial inspection.|1969-07-18T21:02:00|2019-07-18T21:02:00
+TV transmission ended.|1969-07-18T22:16:00|2019-07-18T22:16:00
+CDR and LMP entered CM.|1969-07-18T23:27:00|2019-07-18T23:27:00
+Equigravisphere.|1969-07-19T03:11:55|2019-07-19T03:11:55
+Lunar orbit insertion ignition.|1969-07-19T17:21:50|2019-07-19T17:21:50
+Lunar orbit insertion cutoff.|1969-07-19T17:27:47|2019-07-19T17:27:47
+Sighting of an illumination in the Aristarchus region. 1st time, a lunar transient event sighted by an observer in space.|1969-07-19T18:45:00|2019-07-19T18:45:00
+TV transmission started.|1969-07-19T19:52:00|2019-07-19T19:52:00
+S-IVB closest approach to lunar surface.|1969-07-19T20:14:00|2019-07-19T20:14:00
+TV transmission ended.|1969-07-19T20:32:00|2019-07-19T20:32:00
+Lunar orbit circularization ignition.|1969-07-19T21:43:36|2019-07-19T21:43:36
+Lunar orbit circularization cutoff.|1969-07-19T21:43:53|2019-07-19T21:43:53
+LMP entered CM for initial power-up and system checks.|1969-07-19T22:42:00|2019-07-19T22:42:00
+LMP entered CM.|1969-07-20T01:07:00|2019-07-20T01:07:00
+CDR and LMP entered LM for final preparations for descent.|1969-07-20T12:52:00|2019-07-20T12:52:00
+LMP entered CM.|1969-07-20T14:32:00|2019-07-20T14:32:00
+LMP entered LM.|1969-07-20T15:02:00|2019-07-20T15:02:00
+LM system checks started.|1969-07-20T15:17:00|2019-07-20T15:17:00
+LM system checks ended.|1969-07-20T17:32:00|2019-07-20T17:32:00
+CSM/LM undocked.|1969-07-20T17:44:00|2019-07-20T17:44:00
+CSM/LM separation maneuver ignition.|1969-07-20T18:11:52|2019-07-20T18:11:52
+CSM/LM separation maneuver cutoff.|1969-07-20T18:12:01|2019-07-20T18:12:01
+LM descent orbit insertion ignition (LM SPS).|1969-07-20T19:08:14|2019-07-20T19:08:14
+LM descent orbit insertion cutoff.|1969-07-20T19:08:44|2019-07-20T19:08:44
+LM acquisition of data.|1969-07-20T19:49:17|2019-07-20T19:49:17
+LM landing radar on.|1969-07-20T19:52:53|2019-07-20T19:52:53
+LM abort guidance aligned to primary guidance.|1969-07-20T19:56:40|2019-07-20T19:56:40
+LM yaw maneuver to obtain improved communications.|1969-07-20T19:59:32|2019-07-20T19:59:32
+LM altitude 50,000 feet.|1969-07-20T20:04:55|2019-07-20T20:04:55
+LM propellant settling firing started.|1969-07-20T20:04:58|2019-07-20T20:04:58
+LM powered descent engine ignition.|1969-07-20T20:05:05|2019-07-20T20:05:05
+LM fixed throttle position.|1969-07-20T20:05:31|2019-07-20T20:05:31
+LM face-up maneuver completed.|1969-07-20T20:09:59|2019-07-20T20:09:59
+LM 1202 alarm.|1969-07-20T20:10:22|2019-07-20T20:10:22
+LM radar updates enabled.|1969-07-20T20:10:45|2019-07-20T20:10:45
+LM altitude less than 30,000 feet and velocity less than 2,000 feet per second (landing radar velocity update started).|1969-07-20T20:10:50|2019-07-20T20:10:50
+LM 1202 alarm.|1969-07-20T20:11:02|2019-07-20T20:11:02
+LM throttle recovery.|1969-07-20T20:11:31|2019-07-20T20:11:31
+LM approach phase entered.|1969-07-20T20:13:32|2019-07-20T20:13:32
+LM landing radar antenna to position 2.|1969-07-20T20:13:37|2019-07-20T20:13:37
+LM attitude hold mode selected (check of LM handling qualities).|1969-07-20T20:13:53|2019-07-20T20:13:53
+LM automatic guidance enabled.|1969-07-20T20:14:03|2019-07-20T20:14:03
+LM 1201 alarm.|1969-07-20T20:14:18|2019-07-20T20:14:18
+LM landing radar switched to low scale.|1969-07-20T20:14:19|2019-07-20T20:14:19
+LM 1202 alarm.|1969-07-20T20:14:43|2019-07-20T20:14:43
+LM 1202 alarm.|1969-07-20T20:14:58|2019-07-20T20:14:58
+LM landing point redesignation.|1969-07-20T20:15:09|2019-07-20T20:15:09
+LM altitude hold.|1969-07-20T20:15:13|2019-07-20T20:15:13
+LM abort guidance attitude updated.|1969-07-20T20:15:20|2019-07-20T20:15:20
+LM rate of descent landing phase entered.|1969-07-20T20:15:22|2019-07-20T20:15:22
+LM landing radar data not good.|1969-07-20T20:16:11|2019-07-20T20:16:11
+LM landing data good.|1969-07-20T20:16:21|2019-07-20T20:16:21
+LM fuel low-level quantity light.|1969-07-20T20:16:28|2019-07-20T20:16:28
+LM landing radar data not good.|1969-07-20T20:16:59|2019-07-20T20:16:59
+LM landing radar data good.|1969-07-20T20:17:03|2019-07-20T20:17:03
+1st evidence of surface dust disturbed by descent engine.|1969-07-20T20:16:35|2019-07-20T20:16:35
+LM lunar landing.|1969-07-20T20:17:39|2019-07-20T20:17:39
+LM powered descent engine cutoff.|1969-07-20T20:17:41|2019-07-20T20:17:41
+Decision made to proceed with EVA prior to first rest period.|1969-07-20T22:12:00|2019-07-20T22:12:00
+Preparation for EVA started.|1969-07-20T23:43:00|2019-07-20T23:43:00
+EVA started (hatch open).|1969-07-21T02:39:33|2019-07-21T02:39:33
+CDR completely outside LM on porch.|1969-07-21T02:51:16|2019-07-21T02:51:16
+Modular equipment stowage assembly deployed (CDR).|1969-07-21T02:53:18|2019-07-21T02:53:18
+First clear TV picture received.|1969-07-21T02:54:00|2019-07-21T02:54:00
+CDR at foot of ladder (starts to report, then pauses to listen).|1969-07-21T02:55:28|2019-07-21T02:55:28
+CDR at foot of ladder and described surface as almost like a powder.|1969-07-21T02:55:38|2019-07-21T02:55:38
+1st step taken lunar surface (CDR). Thats one small step for a manone giant leap for mankind.|1969-07-21T02:56:15|2019-07-21T02:56:15
+CDR started surface examination and description, assessed mobility and described effects of LM descent engine.|1969-07-21T02:56:48|2019-07-21T02:56:48
+CDR ended surface examination. LMP started to send down camera.|1969-07-21T02:58:54|2019-07-21T02:58:54
+Camera installed on RCU bracket, LEC stored on secondary strut of LM landing gear.|1969-07-21T03:02:23|2019-07-21T03:02:23
+Surface photography (CDR).|1969-07-21T03:02:53|2019-07-21T03:02:53
+Contingency sample collection started (CDR).|1969-07-21T03:05:58|2019-07-21T03:05:58
+Contingency sample collection ended (CDR).|1969-07-21T03:09:08|2019-07-21T03:09:08
+LMP started egress from LM.|1969-07-21T03:11:57|2019-07-21T03:11:57
+LMP at top of ladder. Descent photographed by CDR.|1969-07-21T03:13:56|2019-07-21T03:13:56
+LMP on lunar surface.|1969-07-21T03:15:16|2019-07-21T03:15:16
+Surface examination and examination of landing effects on surface and on LM started (CDR, LMP).|1969-07-21T03:15:47|2019-07-21T03:15:47
+Insulation removed from modular equipment stowage assembly (CDR).|1969-07-21T03:21:06|2019-07-21T03:21:06
+TV camera focal distance adjusted (CDR).|1969-07-21T03:23:35|2019-07-21T03:23:35
+Plaque unveiled (CDR).|1969-07-21T03:24:19|2019-07-21T03:24:19
+Plaque read (CDR).|1969-07-21T03:24:40|2019-07-21T03:24:40
+TV camera redeployed. Panoramic TV view started (CDR).|1969-07-21T03:31:28|2019-07-21T03:31:28
+TV camera placed in final deployment position (CDR).|1969-07-21T03:34:53|2019-07-21T03:34:53
+Solar wind composition experiment deployed (LMP).|1969-07-21T03:35:20|2019-07-21T03:35:20
+United States flag deployed (CDR, LMP).|1969-07-21T03:41:43|2019-07-21T03:41:43
+Evaluation of surface mobility started (LMP).|1969-07-21T03:45:15|2019-07-21T03:45:15
+Evaluation of surface mobility end (LMP).|1969-07-21T03:48:02|2019-07-21T03:48:02
+Presidential message from White House and response from CDR.|1969-07-21T03:48:30|2019-07-21T03:48:30
+Presidential message and CDR response ended.|1969-07-21T03:50:21|2019-07-21T03:50:21
+Evaluation of trajectory of lunar soil when kicked (LMP) and bulk sample collection started (CDR).|1969-07-21T03:52:06|2019-07-21T03:52:06
+Evaluation of visibility in lunar sunlight (LMP).|1969-07-21T03:42:24|2019-07-21T03:42:24
+Evaluation of thermal effects of sun and shadow inside the suit (LMP).|1969-07-21T03:57:09|2019-07-21T03:57:09
+Evaluation of surface shadows and colors (LMP).|1969-07-21T04:00:22|2019-07-21T04:00:22
+LM landing gear inspection and photography (LMP).|1969-07-21T04:06:13|2019-07-21T04:06:13
+Bulk sample completed (CDR).|1969-07-21T04:07:36|2019-07-21T04:07:36
+LM landing gear inspection and photography (CDR, LMP).|1969-07-21T04:18:36|2019-07-21T04:18:36
+Scientific equipment bay doors opened.|1969-07-21T04:25:38|2019-07-21T04:25:38
+Passive seismometer deployed.|1969-07-21T04:27:42|2019-07-21T04:27:42
+Lunar ranging retroreflector deployed (CDR).|1969-07-21T04:35:57|2019-07-21T04:35:57
+1st passive seismic experiment data received on Earth.|1969-07-21T04:40:39|2019-07-21T04:40:39
+Collection of documented samples started (CDR/LMP).|1969-07-21T04:43:00|2019-07-21T04:43:00
+Solar wind composition experiment retrieved (LMP) .|1969-07-21T04:52:00|2019-07-21T04:52:00
+LMP inside LM.|1969-07-21T05:01:39|2019-07-21T05:01:39
+Transfer of sample containers reported complete.|1969-07-21T05:07:51|2019-07-21T05:07:51
+CDR inside LM, assisted and monitored by LMP.|1969-07-21T05:09:32|2019-07-21T05:09:32
+EVA ended (hatch closed).|1969-07-21T05:11:13|2019-07-21T05:11:13
+LM equipment jettisoned.|1969-07-21T07:37:00|2019-07-21T07:37:00
+LM lunar liftoff ignition (LM APS).|1969-07-21T17:54:00|2019-07-21T17:54:00
+LM orbit insertion cutoff.|1969-07-21T18:01:15|2019-07-21T18:01:15
+Coelliptic sequence initiation ignition.|1969-07-21T18:51:35|2019-07-21T18:51:35
+Coelliptic sequence initiation cutoff.|1969-07-21T18:52:22|2019-07-21T18:52:22
+Constant differential height maneuver ignition.|1969-07-21T19:49:49|2019-07-21T19:49:49
+Constant differential height maneuver cutoff.|1969-07-21T19:50:29|2019-07-21T19:50:29
+Terminal phase initiation ignition.|1969-07-21T20:35:51|2019-07-21T20:35:51
+Terminal phase initiation cutoff.|1969-07-21T20:36:14|2019-07-21T20:36:14
+LM 1st midcourse correction.|1969-07-21T20:50:30|2019-07-21T20:50:30
+LM 2nd midcourse correction.|1969-07-21T21:05:30|2019-07-21T21:05:30
+Braking started.|1969-07-21T21:08:57|2019-07-21T21:08:57
+Terminal phase finalize ignition.|1969-07-21T21:18:09|2019-07-21T21:18:09
+Terminal phase finalize cutoff.|1969-07-21T21:18:38|2019-07-21T21:18:38
+Stationkeeping started.|1969-07-21T21:24:05|2019-07-21T21:24:05
+CSM/LM docked.|1969-07-21T21:35:00|2019-07-21T21:35:00
+CDR entered CM.|1969-07-21T22:52:00|2019-07-21T22:52:00
+LMP entered CM.|1969-07-21T23:17:00|2019-07-21T23:17:00
+LM ascent stage jettisoned.|1969-07-21T23:41:31|2019-07-21T23:41:31
+CSM/LM final separation ignition.|1969-07-22T00:02:01|2019-07-22T00:02:01
+CSM/LM final separation cutoff.|1969-07-22T00:02:08|2019-07-22T00:02:08
+Transearth injection ignition (SPS).|1969-07-22T04:55:42|2019-07-22T04:55:42
+Transearth injection cutoff.|1969-07-22T04:58:13|2019-07-22T04:58:13
+Midcourse correction ignition.|1969-07-22T20:01:57|2019-07-22T20:01:57
+Midcourse correction cutoff.|1969-07-22T20:02:07|2019-07-22T20:02:07
+TV transmission started.|1969-07-23T01:08:00|2019-07-23T01:08:00
+TV transmission ended.|1969-07-23T01:26:00|2019-07-23T01:26:00
+TV transmission started.|1969-07-23T22:42:00|2019-07-23T22:42:00
+TV transmission ended.|1969-07-23T22:45:00|2019-07-23T22:45:00
+TV transmission started.|1969-07-23T23:04:00|2019-07-23T23:04:00
+TV transmission ended.|1969-07-23T23:16:00|2019-07-23T23:16:00
+CM/SM separation.|1969-07-24T16:21:12|2019-07-24T16:21:12
+Entry.|1969-07-24T16:35:05|2019-07-24T16:35:05
+Drogue parachute deployed|1969-07-24T16:44:06|2019-07-24T16:44:06
+Visual contact with CM established by aircraft.|1969-07-24T16:39:00|2019-07-24T16:39:00
+Radar contact with CM established by recovery ship.|1969-07-24T16:40:00|2019-07-24T16:40:00
+VHF voice contact and recovery beacon contact established.|1969-07-24T16:46:00|2019-07-24T16:46:00
+Splashdown (went to apex-down).|1969-07-24T16:50:35|2019-07-24T16:50:35
+CM returned to apex-up position.|1969-07-24T16:58:15|2019-07-24T16:58:15
+Flotation collar inflated.|1969-07-24T17:04:00|2019-07-24T17:04:00
+Hatch opened for crew egress.|1969-07-24T17:21:00|2019-07-24T17:21:00
+Crew egress.|1969-07-24T17:29:00|2019-07-24T17:29:00
+Crew aboard recovery ship.|1969-07-24T17:53:00|2019-07-24T17:53:00
+Crew entered mobile quarantine facility.|1969-07-24T17:58:00|2019-07-24T17:58:00
+CM lifted from water.|1969-07-24T19:50:00|2019-07-24T19:50:00
+CM secured to quarantine facility.|1969-07-24T19:58:00|2019-07-24T19:58:00
+CM hatch reopened.|1969-07-24T20:05:00|2019-07-24T20:05:00
+Sample return containers 1 and 2 removed from CM.|1969-07-24T22:00:00|2019-07-24T22:00:00
+Container 1 removed from mobile quarantine facility.|1969-07-24T23:32:00|2019-07-24T23:32:00
+Container 2 removed from mobile quarantine facility.|1969-07-25T00:05:00|2019-07-25T00:05:00
+Container 2 and film flown to Johnston Island.|1969-07-25T05:15:00|2019-07-25T05:15:00
+Container 1 flown to Hickam Air Force Base, Hawaii.|1969-07-25T11:45:00|2019-07-25T11:45:00
+Container 2 and film arrived in Houston, TX.|1969-07-25T16:15:00|2019-07-25T16:15:00
+Container 1, film, and biological samples arrived in Houston.|1969-07-25T23:13:00|2019-07-25T23:13:00
+CM decontaminated and hatch secured.|1969-07-26T03:00:00|2019-07-26T03:00:00
+Mobile quarantine facility secured.|1969-07-26T04:35:00|2019-07-26T04:35:00
+Mobile quarantine facility and CM offloaded.|1969-07-27T00:15:00|2019-07-27T00:15:00
+Safing of CM pyrotechnics completed.|1969-07-27T02:05:00|2019-07-27T02:05:00
+Mobile quarantine facility arrived at Ellington AFB, Houston.|1969-07-28T06:00:00|2019-07-28T06:00:00
+Crew in Lunar Receiving Laboratory, Houston|1969-07-28T10:00:00|2019-07-28T10:00:00
+CM delivered to Lunar Receiving Laboratory.|1969-07-30T23:17:00|2019-07-30T23:17:00
+Passive seismic experiment turned off.|1969-08-03T11:58:46|2019-08-03T11:58:46
+Crew released from quarantine.|1969-08-10T00:00:00|2019-08-10T00:00:00
+CM delivered to contractors facility in Downey, CA.|1969-08-14T00:00:00|2019-08-14T00:00:00
+EASEP turned off by ground command.|1969-08-27T00:00:00|2019-08-27T00:00:00

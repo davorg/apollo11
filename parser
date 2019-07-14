@@ -1,0 +1,40 @@
+#!/usr/bin/perl -CS
+
+use strict;
+use warnings;
+use feature 'say';
+
+use DateTime;
+use DateTime::Format::Strptime;
+use HTML::TableExtract;
+
+my $in_fmt  = '%d %b %Y %H:%M:%S';
+my $out_fmt = '%Y-%m-%dT%H:%M:%S';
+
+my $dp = DateTime::Format::Strptime->new(
+  pattern => $in_fmt,
+  time_zone => 'UTC',
+);
+
+my $page = join '', <>;
+$page =~ s/&nbsp;//g;
+
+my $te = HTML::TableExtract->new(debug => 1);
+$te->parse($page);
+
+my $first;
+
+for my $row ($te->rows) {
+  next unless $first++;
+  s/\s+/ /sg for @$row;
+  s/^ //     for @$row;
+  my ($text, $time, $date) = @{$row}[0, 2, 3];
+  $time = '00:00:00' unless $time =~ /\d/;
+  $time .= ':00' unless $time =~ /\d\d:\d\d:\d\d/;
+
+  my $dt = $dp->parse_datetime("$date $time", $in_fmt);
+  my $new_dt = $dt->clone;
+  $new_dt->add(years => 50);
+
+  say join '|', $text, $dt->strftime($out_fmt), $new_dt->strftime($out_fmt);
+}
