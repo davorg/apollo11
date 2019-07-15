@@ -18,7 +18,7 @@ my $t = Apollo::Twitter->new(
 
 $t->authorise;
 
-my $sel_sql = 'select message, orig_time, new_time
+my $sel_sql = 'select rowid, message, orig_time
                from   status
 	       where  new_time <= strftime("%Y-%m-%dT%H:%M:%S",
 	                                   DATETIME("now", "utc"))
@@ -26,8 +26,7 @@ my $sel_sql = 'select message, orig_time, new_time
 
 my $upd_sql = 'update status
                set    done = 1
-	       where  message = ?
-	       and    new_time = ?';
+	       where  rowid = ?';
 
 my $dbh = DBI->connect('dbi:SQLite:dbname=apollo.db')
   or die DBI->errstr;
@@ -38,7 +37,7 @@ $sel_sth->execute;
 my $upd_sth = $dbh->prepare($upd_sql);
 
 while (my $status = $sel_sth->fetch) {
-  $t->update("$status->[0] ($status->[1])");
-  $upd_sth->execute($status->[0], $status->[2]);
+  $t->update("$status->[1] ($status->[2])");
+  $upd_sth->execute($status->[0]);
 }
 
