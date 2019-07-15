@@ -21,7 +21,7 @@ $t->authorise;
 my $sel_sql = 'select rowid, message, orig_time
                from   status
 	       where  new_time <= strftime("%Y-%m-%dT%H:%M:%S",
-	                                   DATETIME("now", "utc"))
+	                                   DATETIME("now"))
                and    done = 0';
 
 my $upd_sql = 'update status
@@ -37,7 +37,7 @@ $sel_sth->execute;
 my $upd_sth = $dbh->prepare($upd_sql);
 
 while (my $status = $sel_sth->fetch) {
-  my $msg = "$status->[1] ($status->[2])";
+  my $msg = "$status->[1] ($status->[2] UTC)";
   warn localtime . " Tweeting: $msg\n";
   $t->update($msg);
   $upd_sth->execute($status->[0]);
