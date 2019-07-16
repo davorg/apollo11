@@ -42,5 +42,6 @@ while (my $status = $sel_sth->fetch) {
   warn localtime . " Tweeting: $msg\n";
   $t->update($msg);
   $upd_sth->execute($status->[0]);
+  sleep 1;
 }
 
