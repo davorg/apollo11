@@ -38,7 +38,7 @@ $sel_sth->execute;
 my $upd_sth = $dbh->prepare($upd_sql);
 
 while (my $status = $sel_sth->fetch) {
-  my $msg = "$status->[1] ($status->[2] UTC)";
+  my $msg = "$status->[1] ($status->[2] UTC) #apollo11 #apollo50";
   warn localtime . " Tweeting: $msg\n";
   $t->update($msg);
   $upd_sth->execute($status->[0]);
