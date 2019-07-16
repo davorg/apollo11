@@ -22,7 +22,8 @@ my $sel_sql = 'select rowid, message, orig_time
                from   status
 	       where  new_time <= strftime("%Y-%m-%dT%H:%M:%S",
 	                                   DATETIME("now"))
-               and    done = 0';
+               and    done = 0
+               order by new_time asc';
 
 my $upd_sql = 'update status
                set    done = 1
