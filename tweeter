@@ -31,6 +31,7 @@ my $upd_sql = 'update status
 
 my $dbh = DBI->connect('dbi:SQLite:dbname=apollo.db')
   or die DBI->errstr;
+$dbh->{sqlite_unicode} = 1;
 
 my $sel_sth = $dbh->prepare($sel_sql);
 $sel_sth->execute;
